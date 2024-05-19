@@ -45,6 +45,7 @@ yay -S\
 	zip unzip \
 	cups \
 	bc \
+	fzf \
 	firefox
 echo "Done."
 
