@@ -1,0 +1,3 @@
+name Firefox
+icon /usr/share/icons/hicolor/64x64/apps/firefox.png
+command firefox
